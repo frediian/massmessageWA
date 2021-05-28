@@ -8,8 +8,6 @@
 /media
 /logs
 /frontend
-/modules
-
 
 # misc
 .DS_Store
